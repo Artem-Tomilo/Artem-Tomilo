@@ -12,13 +12,6 @@ ___
 
 [<img align="left" alt="Artem-Tomilo | Post" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][post]
 
-<br />
-<br />
-
-___
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artem-Tomilo&count_private=true&show_icons=true&theme=radical)
-
 [linkedin]: https://www.linkedin.com/in/artem-tomilo/
 [telegram]: http://t.me/Art3m_T
 [post]: artsiom.tamila@gmail.com
