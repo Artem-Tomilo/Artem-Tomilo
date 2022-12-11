@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=2000&color=000000&background=FFFFFF00&multiline=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Artem+and+I'm+an+iOS+developer!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=2000&color=000000&background=FFFFFF00&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Artem+and+I'm+an+iOS+developer!)](https://git.io/typing-svg)
 
  ![](https://komarev.com/ghpvc/?username=Artem-Tomilo&color=blueviolet)
 
